@@ -13,11 +13,11 @@
   <img src="https://user-images.githubusercontent.com/102868346/185483946-ec302774-6090-4efd-b054-7e99174d574d.png"/> https://www.linkedin.com/in/victor-hug/
 </div>
 
-- 😄 Pronomes: ele/dele
-
+##
 
 <div>
   <a href="https://github.com/Victor-devs">
     <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=Victor-devs&show_icons=true&theme=dark"/>
+    <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-devs&layout=compact"/>
    
 </div>
