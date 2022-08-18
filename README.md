@@ -1,5 +1,5 @@
 ### Olá, me chamo Victor 👋
-- 🔭 Estou euscando uma oportunidade na área de programação.
+- 🔭 Estou Buscando uma oportunidade na área de programação.
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 🚀 Habilidades   	
               ![image](https://user-images.githubusercontent.com/102868346/185483370-41bbd768-1a76-44eb-b21c-81cf55eeb87d.png)
