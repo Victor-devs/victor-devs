@@ -1,11 +1,6 @@
 ### Olá, me chamo Victor 👋
 - 🔭 Estou Buscando uma oportunidade na área de programação.
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
-- 🚀 Habilidades   	
-              ![image](https://user-images.githubusercontent.com/102868346/185483370-41bbd768-1a76-44eb-b21c-81cf55eeb87d.png)
-              ![image](https://user-images.githubusercontent.com/102868346/185483513-1a4ae709-360a-4472-8839-b06bf6d941af.png)
-              ![image](https://user-images.githubusercontent.com/102868346/185483537-2979e540-b328-4a17-8864-d0a14d413dd3.png)
-
 - 📫 Contate-me através do e-mail: victorh_dev@hotmail.com
 
 <div>
@@ -21,3 +16,7 @@
     <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-devs&layout=compact"/>
    
 </div>
+
+##
+
+<center><h3>Habilidades</h3>
