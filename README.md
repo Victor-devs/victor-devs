@@ -28,8 +28,8 @@
 
 <div>
   <a href="https://github.com/Victor-devs">
-    <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=Victor-devs&show_icons=true&theme=dark"/>
-    <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-devs&layout=compact"/>
+    <img height="150em" src ="https://github-readme-stats.vercel.app/api?username=Victor-devs&show_icons=true&theme=dark"/>
+    <img height="150em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-devs&layout=compact"/>
    
 </div>
 
