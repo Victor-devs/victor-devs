@@ -19,4 +19,17 @@
 
 ##
 
-<center><h3>Habilidades</h3>
+<div style="text-align: center"><h3>Habilidades</h3>
+  <div>
+    <a href="https://github.com/Victor-devs/barbearia-alura-home/blob/master/index.html"/>
+    <img src="https://user-images.githubusercontent.com/102868346/185518138-6afea88b-2fe5-442f-bec6-4e5a9a2dfdc9.png">
+  </div>
+  <div>
+    <a href="https://github.com/Victor-devs/barbearia-alura-home/blob/master/style.css"/>
+    <img src="https://user-images.githubusercontent.com/102868346/185522006-2f706287-b912-4c10-b982-1da248957493.png"/>
+  </div>
+  <div>
+    <a href="https://github.com/Victor-devs/calcula_consumo/blob/main/calcula_consumo.html"/>
+    <img src="https://user-images.githubusercontent.com/102868346/185522373-3818b491-170e-4701-a2f7-ba4795fc3bd8.png"/>
+  </div>
+  ##
