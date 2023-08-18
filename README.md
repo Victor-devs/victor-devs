@@ -1,5 +1,5 @@
 ### Olá, me chamo Victor 👋
-- 🔭 Estou Buscando uma oportunidade na área de programação.
+- 🔭 Estudante, desenvolvedor PHP e Java.
 - 📖 Estudando Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me através do e-mail: victorh_dev@hotmail.com <br>
 <div>
